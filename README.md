@@ -1,7 +1,6 @@
 # Hi, I'm Olesya 👋
 
 **Frontend Developer with 4+ years of commercial experience** building web and mobile applications using Angular, React, and TypeScript.
-
 Experienced in backend development with Node.js, Express, PostgreSQL, and WebSockets. Focused on clean architecture, performance optimization, and maintainable code.
 
 ### Tech Stack
@@ -18,8 +17,7 @@ Experienced in backend development with Node.js, Express, PostgreSQL, and WebSoc
 - Reduced regression bugs by **20%** by implementing unit and E2E testing.
 - Cut code review time by **4x** by introducing a team-wide code style guide.
 - Reduced support tickets by **80%** through UX improvements and form validation.
-- Built cross-platform mobile applications and real-time TV applications.
-- Collaborated with international teams in English.
+- Collaborated with international teams.
 
 ### Featured Projects
 
@@ -29,4 +27,4 @@ Experienced in backend development with Node.js, Express, PostgreSQL, and WebSoc
 
 ### Connect
 
-[LinkedIn](https://www.linkedin.com/in/olesya-boyarshinova/) · [Telegram Bot](https://t.me/olboyarshinova)
+[LinkedIn](https://www.linkedin.com/in/olesya-boyarshinova/) · [Telegram](https://t.me/olboyarshinova)
