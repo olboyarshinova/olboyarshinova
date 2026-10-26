@@ -9,6 +9,7 @@ Experienced in backend development with Node.js, Express, PostgreSQL, and WebSoc
 - **Backend:** Node.js, NestJS, Express, REST API, GraphQL, WebSockets
 - **Databases:** PostgreSQL, SQLite,
 - **Testing:** Jest, Playwright, Karma, Jasmine
+- **AI & Automation**: LangChain, Flowise
 - **Tools:** Git, Docker, CI/CD, Webpack, ESLint, Ionic, Capacitor
 
 ### Professional Highlights
@@ -18,12 +19,6 @@ Experienced in backend development with Node.js, Express, PostgreSQL, and WebSoc
 - Cut code review time by **4x** by introducing a team-wide code style guide.
 - Reduced support tickets by **80%** through UX improvements and form validation.
 - Collaborated with international teams.
-
-### Featured Projects
-
-- **[Angular AI Code Reviewer](https://github.com/olboyarshinova/angular-design-system-agent)** — AI-powered Angular code analysis using LangChain and TypeScript AST.
-- **[Accessibility CLI](https://github.com/olboyarshinova/a11y-shiftleft-cli)** — Automated accessibility checks for web applications.
-- **[Telegram Workout Bot](https://github.com/olboyarshinova/daily-exersises-bot)** — Automated workout video delivery, scheduling, feedback collection, and analytics.
 
 ### Connect
 
