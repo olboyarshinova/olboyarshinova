@@ -7,7 +7,7 @@ Experienced in backend development with Node.js, Express, PostgreSQL, and WebSoc
 
 - **Frontend:** Angular, React, TypeScript, JavaScript, RxJS, NgXS, Redux, HTML, SCSS
 - **Backend:** Node.js, NestJS, Express, REST API, GraphQL, WebSockets
-- **Databases:** PostgreSQL, SQLite,
+- **Databases:** PostgreSQL, SQLite
 - **Testing:** Jest, Playwright, Karma, Jasmine
 - **AI & Automation**: LangChain, Flowise
 - **Tools:** Git, Docker, CI/CD, Webpack, ESLint, Ionic, Capacitor
